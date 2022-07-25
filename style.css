@@ -77,3 +77,19 @@ nav ul li{
 .icons i{
     cursor: pointer;
 }
+
+
+.songItem{
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 80%;
+    color: black;
+    margin: 12px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.songItem img{
+    width: 50px;
+}
