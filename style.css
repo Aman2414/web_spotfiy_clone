@@ -81,28 +81,22 @@ nav ul li {
     height: 50px;
     display: flex;
     background-color: white;
-    width: 70%;
+    width: 90%;
     color: black;
     margin: 12px 0px;
     justify-content: space-between;
     align-items: center;
-    border-radius: 34px;
+    border-radius: 10px;
 }
 
 .songItem img {
-    width: 40px;
+    width: 45px;
     margin: 0px 20px;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
-.timeStamp{
-    margin: 0px 10px;
-    display: flex;
-    align-items: center;
-}
-
-.timeStamp i{
-    margin: 0px 5px;
+.songItemPlay{
+    margin: 0px 15px;
 }
 
 .songItemContainer{
